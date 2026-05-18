@@ -10,10 +10,10 @@ import UserDropdown from './components/UserDropdown.vue';
 
 <template>
   <AppNavbar />
-  <CourseCard />
-  <CourseModal />
-  <StarCard />
   <ToastNotification />
+  <StarCard />
+  <CourseModal />
+  <CourseCard />
   <UserDropdown />
 </template>
 
